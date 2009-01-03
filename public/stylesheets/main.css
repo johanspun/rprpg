@@ -1,0 +1,73 @@
+html,body,div,span,applet,object,iframe,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,strong,tt,var,dl,dt,dd,blockquote,fieldset,form,i,b,caption,tbody,tfoot,thead,tr,th,td{vertical-align:baseline;margin:0;padding:0}
+body{background:#fff;color:#000;line-height:1.5em;font:75%/1.5em Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif;position:relative}
+textarea{font:100%/1.5em Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+:focus{outline:1px dotted}
+a{color:inherit;text-decoration:underline}
+a:hover,a:focus{text-decoration:none}
+abbr,acronym{border-bottom:1px dotted;cursor:help;font-variant:small-caps}
+address,cite,em,i{font-style:italic}
+blockquote p{background:#eee;margin:0 1.5em 1.5em;padding:0.75em}
+code,kbd,tt{font:1em/1.5em "Courier New", Courier, monospace}
+del{text-decoration:line-through}
+dfn{border-bottom:1px dashed;font-style:italic}
+dl{margin:0 0 1.5em}
+h1{font-size:2em;font-weight:700;margin:0 0 0.75em}
+h2{font-size:1.5em;margin:0 0 1em}
+h3{font-size:1.1666em;margin:0 0 1.285em}
+h4{font-size:1em;margin:0 0 1.5em}
+h5{font-size:0.8333em;margin:0 0 1.8em}
+h6{font-size:0.666em;margin:0 0 2.25em}
+img{display:inline-block;vertical-align:bottom}
+ins{text-decoration:overline}
+ol li{list-style:inside decimal}
+p{font-weight:300;margin:0 0 1.5em}
+pre{font:1em/1.5em "Courier New", Courier, monospace;margin:0 0 1.5em;padding:0 0 0 1.5em}
+sub{font-size:0.85em;line-height:1em;vertical-align:baseline;bottom:-0.4em;position:relative}
+sup{font-size:0.85em;line-height:1em;vertical-align:baseline;top:-0.4em;position:relative}
+ul,ol{margin:0 0 1.5em;padding:0}
+li ul,li ol{margin:0}
+ul li{list-style:inside disc}
+table{border-collapse:collapse;border-spacing:0;margin:0 0 1.5em;padding:0}
+caption{text-align:left;font-style:italic}
+tr.alt td{background:#eee}
+td{border:1px solid #000;vertical-align:middle;padding:0.333em}
+th{font-weight:700;vertical-align:middle;padding:0.333em}
+form button{cursor:pointer;font-size:1em;height:2em;line-height:1.5em;display:block;margin:1em 0 0;padding:0 0.5em}
+form fieldset{border:0;position:relative;margin:0 0 1.5em}
+form fieldset fieldset{clear:both;margin:1.5em 0 0;padding:0 0 0 1.5em}
+form input{width:100%;border:0;font-size:1em;height:1.5em;line-height:1.5em;background:#eee;padding:0.375em 0}
+form input[type=file]{height:2.25em;padding:0}
+form input[type=submit]{cursor:pointer;font-size:1em;height:2em;line-height:1.5em;display:block;margin:1em 0 0;padding:0 0.5em}
+form textarea{width:100%;border:0;background:#eee;margin:0;padding:0.375em 0}
+form select{font-size:1em;height:2.25em;line-height:2.25em;margin:0;padding:0}
+form option{font-size:1em;height:1.5em;line-height:2.25em;padding:0}
+form label{cursor:pointer;display:block;width:100%;margin:1.5em 0 0;padding:0}
+form label input{vertical-align:top;width:auto;background:0;margin:0 0.5em 0 0;padding:0}
+form legend{font-size:1.1666em;font-weight:700;left:0;margin:0;padding:0}
+.amp{font-family:Baskerville, "Goudy Old Style", Palatino, "Book Antiqua", "URW Chancery L", Gentium, serif;font-style:italic}
+.aside-left{clear:left;float:left;margin:0 1.5em 0 0}
+.aside-right{clear:right;float:right;margin:0 0 0 1.5em}
+.error{background:#fee;border:1px solid red;text-align:center;margin:1.5em;padding:0.666em}
+.notice{background:#eef;border:1px solid #00f;text-align:center;margin:1.5em;padding:0.666em}
+.success{background:#efe;border:1px solid #0f0;text-align:center;margin:1.5em;padding:0.666em}
+.warning{background:#ffe;border:1px solid #ff0;text-align:center;margin:1.5em;padding:0.666em}
+.quo{font-family:Georgia, Gentium, "Times New Roman", Times, serif}
+.lquo{font-family:Georgia, Gentium, "Times New Roman", Times, serif;margin:0 0 0 -0.55em}
+.section{position:relative}
+.firstParagraphArticle:first-letter{font-size:3.2em;line-height:1em;float:left;font-weight:700;margin-bottom:-0.2em;padding:0.125em 0.1em 0 0}
+.horizontalForm button{clear:left;float:left}
+.horizontalForm input,.horizontalForm textarea{float:left;width:49%;margin:1.5em 0 0}
+.horizontalForm select{float:left;margin:1.5em 0 0}
+.horizontalForm label{clear:left;float:left;width:49%;padding:0.375em 0}
+.horizontalForm label input{height:1em;line-height:1;width:auto;margin:0.25em 0.5em 0 0}
+.horizontalForm label.singleLine{width:100%;clear:both;float:none;margin-top:0;padding:1.5em 0 0}
+dt,strong,b{font-weight:700}
+dd,li li{padding-left:1.5em}
+
+#wrapper {
+	width: 800px;
+	padding: 80px 20px 80px 20px;
+	margin: 0 auto;
+}
